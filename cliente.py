@@ -27,6 +27,8 @@ def escreve_mensagem():
         mensagem_enviada = f'{user_name}: {input("")}'
         client.send(mensagem_enviada.encode('ascii'))
         print("teste2")
+        print('nova atualizacao teste')
+
 recebe_thread = threading.Thread(target=recebe_mensagem)
 recebe_thread.start()
 

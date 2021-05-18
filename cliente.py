@@ -8,6 +8,7 @@ client.connect(('127.0.0.1', 50505))
 
 print('vai logo, da o erro')
 print("teste erro entre branches")
+print('outro teste qualquer')
 
 
 def recebe_mensagem():

@@ -34,7 +34,9 @@ def escreve_mensagem():
         print("teste2")
         print("novo commit parte 3")
         print('nova atualizacao teste')
+        print('nova atualizacao teste 2 = nova nova branch')
         print('nova alteração')
+
 
 recebe_thread = threading.Thread(target=recebe_mensagem)
 recebe_thread.start()

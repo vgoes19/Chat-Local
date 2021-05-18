@@ -5,6 +5,7 @@ user_name = input("USERNAME: ") #insere o nome de usuario
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect(('127.0.0.1', 50505)) 
+print("teste erro entre branches")
 
 def recebe_mensagem():
     while True:

@@ -8,6 +8,6 @@ Primeiro chamamos o arquivo servidor.py para podermos começar a escutar as cone
 Em seguida executamos os arquivos de cliente, colocando um username e entradas de textos no chat.
 
 O endereço de conexão nesta aplicação está sendo colocando como ip local mas podemos declarar qualquer endereço para a troca de dados.
-É usado os módulos threading e socket onde o primeiro realizamos para executarmos várias tarefas em um mesmo processo e o segundo para efeturar a comunicação.
+É usado os módulos threading e socket onde o primeiro realizamos para executarmos várias tarefas em um mesmo processo e o segundo para efetuar a comunicação.
 
 Para a realização de escrita é utilizado o móduto art, chamando um tprint com qualquer texto.

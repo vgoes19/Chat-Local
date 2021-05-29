@@ -1,7 +1,7 @@
 # Chat-Python
 Comunicação entre cliente servidor com módulo socket 
 
-<img src="/images/img.png"/>
+<img src="https://github.com/vgoes19/Chat-Python/blob/main/images/img.jpeg"/>
 
 
 Primeiro chamamos o arquivo servidor.py para podermos começar a escutar as conexões.

@@ -1,10 +1,13 @@
 import socket 
 import threading
+from art import *
 
 user_name = input("USERNAME: ") #insere o nome de usuario
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect(('127.0.0.1', 50505)) 
+tprint("Chat Python Local")
+
 
 
 def recebe_mensagem():

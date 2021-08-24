@@ -1,4 +1,4 @@
-# Chat-Python-Local
+# Chat-Local-Python
 Comunicação entre cliente servidor com módulo socket 
 
 <img src="https://github.com/vgoes19/Chat-Python-Local/blob/main/images/comunicacao.jpg"/>

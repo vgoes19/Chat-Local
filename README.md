@@ -1,13 +1,13 @@
 # Chat-Local-Python
-Comunicação entre cliente servidor com módulo socket 
+Comunication between client server with socket module 
 
 <img src="https://github.com/vgoes19/Chat-Python-Local/blob/main/images/comunicacao.jpg"/>
 
 
-Primeiro chamamos o arquivo servidor.py para podermos começar a escutar as conexões.
-Em seguida executamos os arquivos de cliente, colocando um username e entradas de textos no chat.
+First we call the file 'servidor.py' so we can start listening to the connections.
+Then run the client files by placing a user name and text entries in the chat.
 
-O endereço de conexão nesta aplicação está sendo colocando como ip local mas podemos declarar qualquer endereço para a troca de dados.
-É usado os módulos threading e socket onde o primeiro realizamos para executarmos várias tarefas em um mesmo processo e o segundo para efetuar a comunicação.
+The connection address that the application is being placed as local ip, but we can declare any address for data exchange.
+The threadding modules and socket are used where the socket run several tasks in the same process and threading is used for the communication.
 
-Para a realização de escrita é utilizado o móduto art, chamando um tprint com qualquer texto.
+For writing, the art module is used, calling a tprint with any text.
